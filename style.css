@@ -1,7 +1,11 @@
 /* Style the video: 100% width and height to cover the entire window */
-#myvideo {
-  max-width: 100%;
-  height: auto;
+#myVideo {
+  left: 50%;
+  min-height: 100%;
+  min-width: 100%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
 
 body {background-color: black;}
