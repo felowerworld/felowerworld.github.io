@@ -1,10 +1,10 @@
 /* Style the video: 100% width and height to cover the entire window */
 #myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: auto; 
-  min-height: auto;
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 Aspect Ratio */ 
+  height:0;
+  width: 100%;
+  Margin: 0 auto;	 
 }
 
 body {background-color: black;}
