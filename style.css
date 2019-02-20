@@ -29,6 +29,10 @@ video#sphere {
 
 /* Non-Demo Styles */
 body {
+	p {
+  color: rgba(255, 255, 255, 0.9);
+
+}
   display: block;
   justify-content: center;
   align-items: normal;
