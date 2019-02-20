@@ -42,7 +42,7 @@ text-decoration: none;
   font-size: 130%;
   
 }
-h1 {
+p.felower {
 font-family: "baskerville";
   color: rgba(255, 255, 255, 0.9);
 text-decoration: none;
@@ -51,7 +51,7 @@ text-decoration: none;
   text-transform: uppercase;
   font-size: 130%;
 }
-h2 {
+p.mono {
 	color: rgba(255, 255, 255, 0.4);
   font-family: "coucou";
   text-decoration: none;
