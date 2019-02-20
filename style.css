@@ -15,7 +15,7 @@ video#sphere {
 }
 @font-face {
 	font-family: "coucou";
-	src: url('Monolith Light Mac');
+	src: url('Monolith Light Mac.ttf');
 }
  a {
   color: white;
@@ -23,6 +23,8 @@ video#sphere {
   text-decoration: none;
   text-transform: lowercase;
   letter-spacing: 8px;
+  font-size: 150%;
+  
 }
 
 /* Non-Demo Styles */
@@ -31,7 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  cc
+  opacity: 40%;
 }
  
 
