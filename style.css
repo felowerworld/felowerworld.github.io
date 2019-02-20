@@ -1,7 +1,8 @@
 /* Style the video: 100% width and height to cover the entire window */
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 
-    "Baskerville";
+    font-family: 'LibreBaskervilleRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
 }
 
 p {
