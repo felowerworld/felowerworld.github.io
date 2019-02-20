@@ -19,16 +19,18 @@ video#sphere {
 }
 p {
   
-  color: rgba(255, 255, 255, 0.4);
+color: rgba(255, 255, 255, 0.4);
   font-family: "coucou";
   text-decoration: none;
-  text-transform: ;
+  text-align: center;
+  position: center;
+  text-transform:  ;
   letter-spacing: 6px;
-  font-size: 170%;
-  line-height: 40%;
+  font-size: 140%;
+  line-height: 0;
 	 position: relative;
-  right: -30px;
-  top: 18px;
+  right: -02px;
+  top: 90px;
 }
  a {
 font-family: "baskerville";
