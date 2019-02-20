@@ -14,10 +14,11 @@ video#sphere {
   
 }
  a {
-  color: red;
+  color: white;
   font-family: helvetica;
   text-decoration: none;
   text-transform: uppercase;
+  letter-spacing: 8px;
 }
 
 /* Non-Demo Styles */
