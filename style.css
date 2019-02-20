@@ -23,15 +23,15 @@ video#sphere {
   text-decoration: none;
   text-transform: lowercase;
   letter-spacing: 8px;
-  font-size: 150%;
+  font-size: 130%;
   
 }
 
 /* Non-Demo Styles */
 body {
   display: flex;
-  justify-content: center;
-  align-items: center;
+  justify-content: left;
+  align-items: left;
   height: 100vh;
   opacity: 40%;
 }
