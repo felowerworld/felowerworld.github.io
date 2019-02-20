@@ -17,23 +17,27 @@ video#sphere {
 	font-family: "coucou";
 	src: url('Monolith Light Mac.ttf');
 }
- a {
-  color: rgba(255, 255, 255, 0.7);
+p {
+  
+
+    color: rgba(255, 255, 255, 0.7);
   font-family: "coucou";
   text-decoration: none;
   text-transform: lowercase;
+
   letter-spacing: 6px;
-  font-size: 100%;
-  
+  font-size: 140%;
 }
-p {
-  font-family: "baskerville";
+ a {
+font-family: "baskerville";
   color: rgba(255, 255, 255, 0.8);
   line-height: 0.2;
-  letter-spacing: 9px;
+  letter-spacing: 14px;
   text-transform: uppercase;
-
+  font-size: 130%;
+  
 }
+
 
 /* Non-Demo Styles */
 body {
