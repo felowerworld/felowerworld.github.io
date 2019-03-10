@@ -19,7 +19,7 @@ video#sphere {
 }
 p {
   
-color: rgba(255, 255, 255, 0);
+color: rgba(255, 255, 255, 0,001);
   font-family: "coucou";
   text-decoration: none;
   text-align: center;
