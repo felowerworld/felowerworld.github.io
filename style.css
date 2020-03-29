@@ -49,7 +49,7 @@ a.contact {
 font-family: "baskerville";
   color: rgba(255, 255, 255, 0.9);
 text-decoration: none;
-  line-height: 0.2;
+  line-height: 1;
   letter-spacing: 14px;
   font-size: 80%;
   position: relative;
@@ -59,7 +59,7 @@ p.felower {
 font-family: "baskerville";
   color: rgba(255, 255, 255, 0.99);
 text-decoration: none;
-  line-height: 0.2;
+  line-height: 1;
   letter-spacing: 20px;
     right: -010.0px;
 
@@ -74,7 +74,7 @@ p.mono {
   text-transform:  ;
   letter-spacing: 22px;
   font-size: 140%;
-  line-height: 0.145;
+  line-height: 1;
 	position: relative;
   right: -010.0px;
   top: 60px;
@@ -84,7 +84,7 @@ a.contact {
 font-family: "baskerville";
   color: rgba(255, 255, 255, 0.9);
 text-decoration: none;
-  line-height: 0.2;
+  line-height: 1;
   letter-spacing: 5px;
   font-size: 60%;
   
