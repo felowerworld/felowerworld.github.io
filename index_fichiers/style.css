@@ -1,0 +1,92 @@
+/* Style the video: 100% width and height to cover the entire window */
+video#sphere {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background-size: cover;
+    z-index: -2;
+  
+}
+@font-face {
+	font-family: "coucou";
+	src: url('Monolith Light Mac.ttf');
+}
+p {
+  
+
+  font-family: ;
+  text-decoration: none;
+  text-align: center;
+  position: center;
+  text-transform:  ;
+  letter-spacing: 6px;
+  font-size: 140%;
+  line-height: 0.145;
+	position: relative;
+  right: -08px;
+  top: 60px;
+}
+ a {
+font-family: "baskerville";
+  color: rgba(255, 255, 255, 0.9);
+text-decoration: none;
+  line-height: 0.2;
+  letter-spacing: 14px;
+  text-transform: uppercase;
+  font-size: 100%;
+  
+}
+
+a.contact {
+font-family: "baskerville";
+  color: rgba(255, 255, 255, 0.9);
+text-decoration: none;
+  line-height: 0.2;
+  letter-spacing: 14px;
+  text-transform: uppercase;
+  font-size: 80%;
+  position: relative;
+  right: 05px;
+}
+p.felower {
+font-family: "baskerville";
+  color: rgba(255, 255, 255, 0.99);
+text-decoration: none;
+  line-height: 0.2;
+  letter-spacing: 20px;
+    right: -010.0px;
+
+  font-size: 130%;
+}
+p.mono {
+	color: rgba(255, 255, 255, 0.4);
+  font-family: "coucou";
+  text-decoration: none;
+  text-align: center;
+  position: center;
+  text-transform:  ;
+  letter-spacing: 22px;
+  font-size: 140%;
+  line-height: 0.145;
+	position: relative;
+  right: -010.0px;
+  top: 60px;
+}
+
+a.contact {
+font-family: "baskerville";
+  color: rgba(255, 255, 255, 0.9);
+text-decoration: none;
+  line-height: 0.2;
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font-size: 60%;
+  
+}
+

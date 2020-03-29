@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'OpenBaskerville0053Normal';
+        src: url('/assets/fonts/open-baskerville/7d908608fdbf11a2f990dee983c3ef35/b773472194b4ade01ea2df509bbb0387/OpenBaskerville0053Normal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
+ /* The following rules are deprecated. */ 
+
+@font-face {
+    font-family: 'Open Baskerville 0.0.53';
+        src: url('/assets/fonts/open-baskerville/7d908608fdbf11a2f990dee983c3ef35/b773472194b4ade01ea2df509bbb0387/OpenBaskerville0053Normal.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+      }
+
