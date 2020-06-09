@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.fa.fa-spinner.fa-spin.fa-5x.fa-fw {
+  font-weight: 100;
+}
+
+.icon.ion-load-c.fa-spin.fa-5x.fa-fw {
+  color: grey;
+}
+
+.text-center.text-sm-center.text-md-center.text-lg-center.text-xl-center {
+  height: 151px;
+  color: #ffffff;
+}
+
