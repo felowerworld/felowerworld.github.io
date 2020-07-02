@@ -37,14 +37,6 @@
   color: #fff;
 }
 
-.box .title:after, .box .description:after {
-  content: "";
-  width: 80%;
-  display: block;
-  border-bottom: 1px solid #fff;
-  margin: 15px auto;
-}
-
 .box .social-links {
   margin: 0;
   padding: 0;
